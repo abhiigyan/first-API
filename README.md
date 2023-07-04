@@ -1,1 +1,1 @@
-this is my first API using golang. It is a rest api that has GET POST anad RUn requests # first-API
+this is my first API using Golang. It is a rest API that has GET,PATCH and RUN requests # first-API
